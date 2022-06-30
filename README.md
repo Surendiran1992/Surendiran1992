@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Surendiran
-- 👀 I’m interested and familiar in Selenium Automation Testing 
-- 🌱 I’m currently learning REST ASSURED REST API TESTING 
-- 💞️ I’m looking to collaborate on job seeking purpose
+- 👀 I’m interested and expert in Selenium,Rest Assured Automation Testing
 - 📫 How to reach me mobile:+91 7339569035 & email:surendiran92@outlook.com
 
 <!---
